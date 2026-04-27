@@ -1,0 +1,5 @@
+# Keda
+
+> **★★★ CSE / Knowable Construction.** This repo operates under **Constructive Substrate Engineering** — canonical specification at [`pleme-io/theory/CONSTRUCTIVE-SUBSTRATE-ENGINEERING.md`](https://github.com/pleme-io/theory/blob/main/CONSTRUCTIVE-SUBSTRATE-ENGINEERING.md). The Compounding Directive (operational rules: solve once, load-bearing fixes only, idiom-first, models stay current, direction beats velocity) is in the org-level pleme-io/CLAUDE.md ★★★ section. Read both before non-trivial changes.
+
+<p align="center"><img src="images/logos/keda-word-colour.png" width="300"/></p> <p style="font-size: 25px" align="center"><b>Kubernetes-based Event Driven Autoscaling</b></p> <p style="font-size: 25px" align="center"> <a href="https://github.com/kedacore/keda/actions?query=workflow%3Amain-build"><img src="https://github.com/kedacore/keda/actions/workflows/main-build.yml/badge.svg" alt="main build"></a> <a href="https://github.com/kedacore/keda/actions?query=workflow%3Anightly-e2e-test"><img src="https://github.com/kedacore/keda/actions/workflows/nightly-e2e.yml/badge.svg" alt="nightly e2e"></a>
